@@ -1,0 +1,6 @@
+python-pptx
+python-docx
+PyMuPDF
+pypdf
+pdfplumber
+beautifulsoup4
